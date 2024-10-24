@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Autom
 
 ---
 
+![Automation in Action](https://github.com/Lana-Defreitas/Lana-Defreitas
+/blob/main/my-github1.webp)
+
+---
+
 ## ⚡ My Skills
 
 - **Automation Tools**: Selenium WebDriver, PostmanAPI, Swagger, GTMetrix, Lighthouse, SpeedLab, BrowserStack

@@ -29,6 +29,10 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Autom
 
 ---
 
+![Automation in Action](https://github.com/Lana-Defreitas/Lana-Defreitas/blob/main/my-github2.webp)
+
+---
+
 ## 🌟 What I’m Working On
 
 - 🤖 Building scalable and maintainable **test automation frameworks** to streamline testing processes.

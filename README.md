@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a dedicated **Software Quality Assurance Autom
 
 ---
 
-![Automation in Action](https://github.com/Lana-Defreitas/Lana-Defreitas/blob/main/my-github1.webp)
+<img src="https://github.com/Lana-Defreitas/Lana-Defreitas/blob/main/my-github1.webp" alt="Automation in Action" width="400">
 
 ---
 
